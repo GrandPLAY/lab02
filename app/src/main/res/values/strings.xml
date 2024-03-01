@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab01</string>
+    <string name="btn_add">add</string>
+    <string name="btn_sub">sub</string>
+    <string name="btn_mul">mul</string>
+    <string name="btn_div">div</string>
+    <string name="txt_a">A</string>
+    <string name="txt_b">B</string>
+    <string name="txt_res">Result</string>
+    <string name="txt_answ">...</string>
+</resources>
